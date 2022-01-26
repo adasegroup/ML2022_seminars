@@ -14,7 +14,7 @@ On completion of the course students are expected to:
 - Be able to design and implement various machine learning algorithms in a range of real-world applications.
 
 ## How to use Google Collab:
-The instructions on how to open seminars' notebooks in Google Colaboratory: [link](https://github.com/adasegroup/ML2022_seminars/blob/master/how_to_colab.md)
+The instructions on how to open seminars' notebooks in Google Colaboratory: [link](https://github.com/adasegroup/ML2022_seminars/blob/main/how_to_colab.md)
 
 ## Contact regarding this github repo:
 If you have any questions/suggestions regarding this githup repository or have found any bugs, please write to me at Nina.Mazyavkina@skoltech.ru 
