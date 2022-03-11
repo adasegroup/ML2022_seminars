@@ -1,0 +1,2 @@
+* Seminar without solutions - ttps://colab.research.google.com/github/adasegroup/ML2022_seminars/blob/master/seminar16/seminar_clustering.ipynb
+* Seminar with solutions - ttps://colab.research.google.com/github/adasegroup/ML2022_seminars/blob/master/seminar16/seminar_clustering_solved.ipynb
